@@ -1,2 +1,8 @@
 Two cameras are used to update the images of a walking man.
-Yolo2 + python2 are used to imlement recognition.
+Yolo2 + python2 are used to implement recognition.
+
+Folder camera_1 contains the model's .sdf file and .config file, with the plugin used as well.
+Folder camera_2 contains the model's .sdf file and .config file, with the plugin used as well.
+Folder ver_1 is the first version of the simulation, the world file includes all the models needed.
+Run the simulation in gazebo and the images acquired by cameras will be uploaded;
+Run the python program and it'll output and store the recognizing result.

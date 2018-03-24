@@ -1,3 +1,5 @@
+# source from https://pjreddie.com/darknet/yolo/
+# run in python2
 from ctypes import *
 import math
 import random
@@ -149,5 +151,6 @@ if __name__ == "__main__":
         print >> f, first_cam, second_cam
         f.close()
 
-    
+
+
 
