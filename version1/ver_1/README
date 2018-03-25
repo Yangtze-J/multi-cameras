@@ -1,0 +1,2 @@
+the world file contains the moving object and two cameras with plugins;
+the py folder includes the program that is used for processing images updated by gazebo.
